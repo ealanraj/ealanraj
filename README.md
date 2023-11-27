@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alanraj.
+- 👀 I’m interested in role of Data Scientist.
+- 🌱 I’m currently learning data science in machine learning.
+- 💞️ I’m looking to collaborate on Data driven companies.
+- 📫 reach me through ealanraj@outlook.com
