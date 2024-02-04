@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Alanraj.
-- 👀 I’m interested in role of Data Scientist.
-- 🌱 I’m currently learning data science in machine learning.
+- 🔭 I’m currently working on projects regarding Data Science and looking forward for relevent job.
+-🌱 I’m currently learning deeply about many AI techniques about analysing data and building model.
 - 💞️ I’m looking to collaborate on Data driven companies.
-- 📫 reach me through ealanraj@outlook.com
+- 📫 reach me through https://www.linkedin.com/in/ealanraj/
+-  Python, SQL, ML, Tableau, PowerBI, Data Analysis
